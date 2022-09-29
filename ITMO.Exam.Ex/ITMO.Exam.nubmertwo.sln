@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.Exam.Test", "ITMO.Exam.Test\ITMO.Exam.Test.csproj", "{3865643A-8D8B-4399-B4FF-2DEC6315A315}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.Exam.nubmertwo", "ITMO.Exam.nubmertwo\ITMO.Exam.nubmertwo.csproj", "{FB578C4B-D88B-40B7-B374-77782062B425}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3865643A-8D8B-4399-B4FF-2DEC6315A315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3865643A-8D8B-4399-B4FF-2DEC6315A315}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3865643A-8D8B-4399-B4FF-2DEC6315A315}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3865643A-8D8B-4399-B4FF-2DEC6315A315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB578C4B-D88B-40B7-B374-77782062B425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB578C4B-D88B-40B7-B374-77782062B425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB578C4B-D88B-40B7-B374-77782062B425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB578C4B-D88B-40B7-B374-77782062B425}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {37BBB989-55A9-454B-BDAE-44D7D4296402}
+		SolutionGuid = {5C1D1B15-8AD0-4118-A01C-41992EC5FB96}
 	EndGlobalSection
 EndGlobal

@@ -5,12 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 
-namespace ITMO.Exam.Test
+namespace ITMO.Exam.nubmertwo
 {
     internal class DataBase
     {
-
-
         SqlConnection sqlConnection = new SqlConnection(@"Data Source=DESKTOP-4QTUIJR\SQLEXPRESS;Initial Catalog=test;Integrated Security=True");
 
         public void openConnection()

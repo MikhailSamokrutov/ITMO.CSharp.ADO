@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITMO.Exam.Test.Properties
+namespace ITMO.Exam.nubmertwo.Properties
 {
 
 

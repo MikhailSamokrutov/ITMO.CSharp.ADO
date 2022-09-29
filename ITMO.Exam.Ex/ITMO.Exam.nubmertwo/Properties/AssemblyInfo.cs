@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("ITMO.Exam.Test")]
+[assembly: AssemblyTitle("ITMO.Exam.nubmertwo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ITMO.Exam.Test")]
+[assembly: AssemblyProduct("ITMO.Exam.nubmertwo")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("3865643a-8d8b-4399-b4ff-2dec6315a315")]
+[assembly: Guid("fb578c4b-d88b-40b7-b374-77782062b425")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

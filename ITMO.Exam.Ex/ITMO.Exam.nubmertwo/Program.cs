@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ITMO.Exam.Test
+namespace ITMO.Exam.nubmertwo
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace ITMO.Exam.Test
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(mainForm: new log_in());
+            Application.Run(new log_in());
         }
     }
 }
